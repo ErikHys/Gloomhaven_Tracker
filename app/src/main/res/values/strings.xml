@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">GloomhavenTracker</string>
+    <string name="Add">Button</string>
+    <string name="ButtonName">Add Character</string>
+    <string name="StartTitle">Gloomhaven Character tracker</string>
 </resources>
